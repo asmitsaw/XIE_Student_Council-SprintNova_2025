@@ -7,7 +7,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Input } from "@/components/ui/input"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Button } from "@/components/ui/button"
-import { Trophy, Medal, TrendingUp, Users, Award, Calendar, Search, Star, ChevronUp, Crown, Target, BarChart3, Loader2 } from "lucide-react"
+import { Trophy, Medal, TrendingUp, Users, Award, Calendar, Search, Star, ChevronUp, Crown, Target, BarChart3, Loader2, AlertCircle } from "lucide-react"
 import { 
   calculateClassTally, 
   calculateDepartmentTally, 
